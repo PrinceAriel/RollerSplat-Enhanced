@@ -80,7 +80,7 @@ This project is for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- Original Roller Splat game concept by Voodoo
+- Original Roller Splat game concept by tutorialsEU
 - Enhanced with custom features and improvements
 - Sound effects from Mixhttps://mixkit.co/free-sound-effects
 - Music from https://mixkit.co/free-sound-effects
