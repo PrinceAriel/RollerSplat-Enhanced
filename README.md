@@ -24,7 +24,7 @@ This project includes custom enhancements:
 
 ## 🛠️ Built With
 
-- **Unity Version**: [ 2022.3.15f1]
+- **Unity Version**:  2022.3.15f1
 - **C#** - Game logic and mechanics
 - **TextMeshPro** - UI text rendering
 - **Particle System** - Visual effects
@@ -82,8 +82,8 @@ This project is for educational purposes.
 
 - Original Roller Splat game concept by Voodoo
 - Enhanced with custom features and improvements
-- Sound effects from [Mixhttps://mixkit.co/free-sound-effects]
-- Music from [https://mixkit.co/free-sound-effects]
+- Sound effects from Mixhttps://mixkit.co/free-sound-effects
+- Music from https://mixkit.co/free-sound-effects
 
 ---
 
