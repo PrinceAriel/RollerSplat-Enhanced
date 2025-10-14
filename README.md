@@ -24,7 +24,7 @@ This project includes custom enhancements:
 
 ## 🛠️ Built With
 
-- **Unity Version**: [Your Unity version, 2022.3.15f1]
+- **Unity Version**: [ 2022.3.15f1]
 - **C#** - Game logic and mechanics
 - **TextMeshPro** - UI text rendering
 - **Particle System** - Visual effects
